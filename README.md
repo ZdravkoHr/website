@@ -4,8 +4,6 @@ This is a really awesome website.
 
 Edit made on master on github before rebase.
 
-<<<<<<< HEAD
-
 ## Repository purpose
 
 # This file is just a readme file.
@@ -14,3 +12,7 @@ Edit made on master on github before rebase.
 
 The purpose of this site is to provide examples
 on how to use Git and Github together.
+
+## Getting started
+
+To get started, just `clone` this repository.
